@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796618028400",
+    "project_id": "signuppage-ba98f",
+    "storage_bucket": "signuppage-ba98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796618028400:android:780237d1e976f68621cbb5",
+        "android_client_info": {
+          "package_name": "hibraheem160Scientist.com.sign_up_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796618028400-ke9opb7f4b56fgjso6i6bf4omab13qd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9n0iHd5l2nIRL3Vvkf8fL4zM1Bu-YjN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796618028400-ke9opb7f4b56fgjso6i6bf4omab13qd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
