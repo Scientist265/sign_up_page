@@ -18,13 +18,13 @@ class FieldLayout extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(10),
+      padding: const EdgeInsets.all(10),
       height: 70,
       width: double.infinity,
       decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(15),
           color: const Color(0xffebfdf3),
-          boxShadow: [
+          boxShadow: const [
             BoxShadow(spreadRadius: 0.5, blurRadius: 2, color: Colors.grey)
           ]),
       child: Row(
